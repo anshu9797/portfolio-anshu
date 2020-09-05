@@ -26,11 +26,11 @@ html {
     width: 100%;
     position: fixed;
     z-index: 100;
-    background-color: rgb(9, 114, 133);
+    background-color: rgb(14, 87, 100);
 }
 
 .nav-bar {
-    background-color: rgb(9, 114, 133);
+    background-color: rgb(14, 87, 100);
     left: 0;
     top: 0;
     padding: 1rem 5rem;
@@ -44,6 +44,7 @@ html {
     font-family: 'Flash Back - Demo', sans-serif;
     font-size: 3rem;
     color: white;
+    text-decoration: none;
 }
 
 .nav-bar .nav-list {
@@ -217,7 +218,7 @@ html {
 
 .hero .hero-img {
     height: auto;
-    width: 70%;
+    width: 65%;
     margin-bottom: 3rem;
     margin-top: 90px;
 }
@@ -377,7 +378,7 @@ html {
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    background-color: rgb(28, 139, 158);
+    background-color: rgb(34, 137, 155);
     padding: 10px;
     border-right: 5px;
     margin-right: 10px;
@@ -441,7 +442,7 @@ html {
     min-height: 10vh;
     flex-direction: column;
     width: 100%;
-    background-color: rgb(11, 120, 139);
+    background-color: rgb(21, 112, 128);
     padding: 3rem 2rem;
 }
 
